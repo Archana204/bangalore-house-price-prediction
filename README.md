@@ -2,6 +2,7 @@
 Welcome to the Bangalore House Price Prediction project!
 This repository showcases a complete end-to-end machine learning pipeline for predicting house prices in Bangalore, India — powered by regression models and deployed via a Flask web app.
 
+<img width="1867" height="844" alt="image" src="https://github.com/user-attachments/assets/6985a14e-94d2-423b-9604-46e7b703f9cb" />
 
 
 📚 Table of Contents
