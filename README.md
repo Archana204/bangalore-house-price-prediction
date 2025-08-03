@@ -29,9 +29,4 @@ Scikit-learn Documentation
 Flask Web Framework
 Matplotlib & Seaborn for Data Viz
 
-💡 Project Motivation
-This project was built to practice real-world machine learning workflows, data handling, and deployment, while creating a meaningful and interactive prediction tool.
-
-📬 Reach Out
-If you have questions or suggestions, feel free to open an issue or connect with me.
 
