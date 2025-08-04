@@ -6,9 +6,9 @@ This repository showcases a complete end-to-end machine learning pipeline for pr
 
 
 📚 Table of Contents
--->Project Overview
--->Key Concepts
--->External References
+#Project Overview
+#Key Concepts
+#External References
 
 
 📖 Project Overview
